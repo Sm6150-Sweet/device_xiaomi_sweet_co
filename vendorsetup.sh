@@ -19,4 +19,4 @@ git clone -b 15 --depth=1 https://gitlab.com/PixelOS-Devices/playgroundtc.git pr
 git clone -b meraki --depth=1 https://github.com/Sm6150-Sweet/kernel_xiaomi_sm6150 kernel/xiaomi/sm6150
 
 # Leica Camera
-git clone https://gitlab.com/mrfox2003/sweet-miuicamera.git vendor/xiaomi/sweet-miuicamera
+git clone https://gitlab.com/basamaryan/vendor_xiaomi_sweet-miuicamera vendor/xiaomi/sweet-miuicamera
