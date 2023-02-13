@@ -32,8 +32,7 @@
         orientation. If zero, the value of rounded_corner_radius is used. -->
     <dimen name="rounded_corner_radius_bottom">102.0px</dimen>
     <!-- Default radius of the software rounded corners. -->
-    <dimen name="rounded_corner_radius">20.0dip</dimen>
+    <dimen name="rounded_corner_radius">25px</dimen>
     <!-- Padding around the status bar -->
     <dimen name="rounded_corner_content_padding">50px</dimen>
-
 </resources>
